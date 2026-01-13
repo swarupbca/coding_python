@@ -16,5 +16,5 @@ def fibo(n):
         b=sum
         
 
-        
-print(fibo(10))
+fibo(10)
+
